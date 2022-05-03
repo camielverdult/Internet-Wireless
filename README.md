@@ -27,11 +27,24 @@ Op een gegeven moment wilde de FCC de regels voor UWB versoepelen. Dit werkt ech
 
 UWB werkt met een spread-sprectrum technologie. Hierbij wordt een singaal met opzet verspreid over een bepaald frequentiedomein. Deze dergelijke signalen hebben een veel grotere bandbreedte dan de werkelijke informatie dat ze bevatten. Dit betekent dat er een ruisachtig signaal ontstaat, wat moeilijk te detecteren of te onderscheppen is. Verder wordt het ook moeilijk om een spread-spectrum signaal te storen met andere signalen. Vaak vraagt men zich af hoe een ontvanger een signaal kan decoderen dat veelal ruis zal bevatten. Om dit ruis eruit te filteren wordt er gebruik gemaakt van _spreading-codes_. Dit zijn codes die vrij willekeurig moeten zijn, maar toch moet de informatie bekend zijn bij zowel de zender als ontvanger van het UWB-signaal.Hieirn zijn twee factoren te definiëren, de eerste is FHSS. Het informatiesignaal springt van de ene frequentieband naar de andere. De volgorde hiervan wordt bepaald door de _spreading-codes_. De tweede is daarentegen DSSS. De informatie wordt in bits verzonden, en de _spreading-code_ werkt met een hogere frequentie. Het is mogelijk om deze twee toepassingen met elkaar te combineren.
 
+In de onderstaande afbeelding wordt deze theorie mooi gevisualiseerd. Je kunt zien dat UWB een groot frequentiebereik heeft. Het varieert inderdaad van ongeveer 3.1 tot 10.6 GHz. Verder is ook zichtbaar dat de FCC een limiet heeft gesteld aan het vermogen dat UWB zoal uit mag zenden. Merk op dat dit voor 802.11a (een 5 GHz Wi-Fi verbinding) veel groter is. Doordat UWB zo'n groot frequentiespectrum kunnen veel gegevens worden verzonden, maar een verminderd zendvermogen van dit medium kan het echter maar enkele meters reiken.
+
+<p align="center">
+  <img src="doc/img/UWB_SPECTRUM.png" height="250" width="500"/>
+</p>
+
 ### 2. Waarom heet het eigenlijk Ultra-Wideband? Welke verschillen heeft het? 
 
 ### 3. Welke toepassingen gebruiken al Ultra-Wideband?
 
-### 4. Hoe kan Ultra-Wideband betreft techniek zich in de toekomst ontwikkelen? 
+### 4. Hoe kan Ultra-Wideband betreft techniek zich in de toekomst ontwikkelen?
+
+UWB heeft steeds meer toepassingen. Dit komt er onder andere mede door dat Apple in haar nieuwste producten met deze technologie voorziet. Het wordt voornamelijk gebruik om precies locaties te bepalen, en bijvoorbeeld objecten tot een exacte afstand te kunnen vinden. Maar tegenwoordig vindt het ook steeds meer haar toepassingen in bijvoorbeeld de zorg en autotechniek. Deze toepassingen zullen zich in de nabije toekomst daarom steeds verder gaan ontwikkelen, en UWB zal een groter aandeel hebben in de technologie dat wordt gebruikt in het dagelijks leven. Hieronder volgt een verdere opsomming:
+
+- Social distancing. Ten tijde dat de corona-pandemie op zijn toppunt was werd UWB gebruikt om afstanden te bepalen, om zo eventuele besmettingen tussen personen op te kunnen sporen. Doordat afstanden tot tien centimeter nauwkeurig kunnen worden gemeten kan een verspreiding in sommige gevallen worden voorkomen, of worden opgespoord. De reden dat UWB hier onder andere ook voor wordt gebruikt is dat het een zeer laag stroomverbruik heeft, ideaal voor mobiele apparaten. In de toekomst zal UWB er dus voor kunnen worden gebruikt om verspreidingen van virussen op te sporen.
+- Industrie. Gereedschappen (zoals bijvoorbeeld momentsleutels) in productieprocessen kunnen op afstand worden gekalibreerd met behulp van UWB. Eventuele fouten in gereedschappen kunnen direct en snel worden opgelost, en de productie kan efficiënter worden verricht. In de toekomst zal UWB verdere toepassingen krijgen in bijvoorbeeld de verf industrie. Er kan middels dit medium zeer nauwkeurig de afstand worden bepaald tussen een spuitkop en een oppervlak dat wordt gespoten. Zo worden oneffenheden in een verf proces volledig geëlimineerd. 
+- Er worden zeer recentelijk stappen gezet in de ontwikkeling van UWB Secure Payment, om de volgende stap van beveiligd betalen te zetten. De opname van Scrambled Timestamp Sequence (STS) in IEEE 802.15.4Z helpt ervoor te zorgen dat kritieke informatie, zoals de validatieafstand tot de betaalterminal veilig wordt bewaard en niet kan worden onderschept of gemanipuleerd. Contactloos betalen kan met UWB dus veiliger worden gemaakt.
+- Auto's, contactloos de auto binnentreden. Veelal nieuwe auto's worden voorzien van een technologie waar men de auto kan betreden, zonder hier bijvoorbeeld fysiek de sleutel voor te hoeven gebruiken. Echter, doordat je hier niet de sleutel fysiek voor hoeft te gebruiken bestaat er een kans voor dieven de auto gemakkelijker te kunnen stelen. Maar als autosleutels voorzien worden van UWB kan dit worden gebruikt om te kijken of de drager van de sleutel daadwerkelijk in de buurt is van de auto om deze te openen, en zich in de auto bevindt om deze te starten. Met behulp van IEEE 802.15.4Z met Scrambled Timestamp Sequence (STS) zal het zelfs mogelijk worden om communicatie tussen een sleutel en auto volledig te beveiligen, zonder dat hacken mogelijk is. 
 
 ### 5. Wat is het verschil tussen Ultra-Wideband en bijvoorbeeld 4G en 5G betreft zend theorie.
 
@@ -43,6 +56,8 @@ Hieronder is een opsomming gegeven van enkele gebruikte afkortingen in dit vooro
 
 * FCC, Federal Communications Commission.
 * UWB, Ultra-Wideband.
+* FHSS, Frequency Hopping Spread Spectrum.
+* DSSS, Direct Sequence Spread Spectrum.
 
 ### Referenties
 
