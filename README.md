@@ -84,5 +84,8 @@ Ultra-Wideband (UWB). Geraadpleegd op 12 Mei 2022, van https://www.qorvo.com/-/m
 * IEEE SA. (2021, 9 oktober). Ultra-Wideband Flexible and Wearable Textile Antenna for Predicting Breast Cancer. IEEE Conference Publication | IEEE Xplore. Geraadpleegd op 12 mei 2022, van https://ieeexplore.ieee.org/document/9588797?arnumber=9588797
     > Bron voor verder onderzoek naar toepassing van UWB in de toekomst. 
 
+***Opmerking:*** voor het zoeken naar referenties is er gebruik gemaakt van de wetenschappelijke artikelen dat de Saxion bibliotheek hiervoor heeft.
+Om hier meer gegevens over te verkrijgen, raadpleeg Blackboard, en dan de library pagina.
+
 ***Overige informatie:***
 > Voor referenties, gebruik een APA-vermelding. Dit is eenvoudig te genereren via de volgende [link](https://www.scribbr.nl/bronnengenerator/apa/).
