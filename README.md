@@ -33,6 +33,8 @@ In de onderstaande afbeelding wordt deze theorie mooi gevisualiseerd. Je kunt zi
   <img src="doc/img/UWB_SPECTRUM.png" height="250" width="500"/>
 </p>
 
+Het is zichtbaar dat het bereik van UWB dicht bij het 'noise level' ligt. Soms vraagt men zich hierbij af of het 'noise level' niet kan storen met het vermogen dat UWB zoal gebruikt. Dit vormt geen probleem, aangezien UWB gebruik maakt van spread-spectrum technologie. Deze technologie is hierboven al uitgewerkt, en zorgt ervoor dat het signaal met opzet over een breed frequentiebereik wordt verstuurd. Op basis van de data dat binnen een signaal wordt verstuurd maakt het dus niet uit dat het vermogen van UWB dicht bij het 'noise level' ligt. 
+
 ### 2. Waarom heet het eigenlijk Ultra-Wideband? Welke verschillen heeft het? 
 
 ### 3. Welke toepassingen gebruiken al Ultra-Wideband?
