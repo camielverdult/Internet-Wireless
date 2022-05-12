@@ -76,5 +76,9 @@ Hieronder is een opsomming gegeven van de referenties gebruikt in dit vooronderz
 * IEEE SA. (2020, 15 mei). IEEE SA - IEEE 802.15.4z-2020. IEEE. Geraadpleegd op 3 mei 2022, van https://standards.ieee.org/ieee/802.15.4z/10230/
 * Qorvo US Inc. (2020, Mei). Getting Back to Basics with
 Ultra-Wideband (UWB). Geraadpleegd op 12 Mei 2022, van https://www.qorvo.com/-/media/files/qorvopublic/white-papers/qorvo-getting-back-to-basics-with-ultra-wideband-uwb-white-paper.pdf
+* IEEE SA. (2022, 4 januari). Tracking Resurgence of Ultra-Wideband - A Standards and Certification Perspective. IEEE Conference Publication | IEEE Xplore. Geraadpleegd op 12 mei 2022, van https://ieeexplore.ieee.org/document/9668524?arnumber=9668524
+* IEEE SA. (2021, 9 oktober). Ultra-Wideband Flexible and Wearable Textile Antenna for Predicting Breast Cancer. IEEE Conference Publication | IEEE Xplore. Geraadpleegd op 12 mei 2022, van https://ieeexplore.ieee.org/document/9588797?arnumber=9588797
+    > Bron voor verder onderzoek naar toepassing van UWB in de toekomst. 
 
+***Overige informatie:***
 > Voor referenties, gebruik een APA-vermelding. Dit is eenvoudig te genereren via de volgende [link](https://www.scribbr.nl/bronnengenerator/apa/).
