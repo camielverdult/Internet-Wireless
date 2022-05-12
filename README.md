@@ -29,10 +29,10 @@ UWB werkt met een spread-sprectrum technologie. Hierbij wordt een singaal met op
 
 In de onderstaande afbeelding wordt deze theorie mooi gevisualiseerd. Je kunt zien dat UWB een groot frequentiebereik heeft. Het varieert inderdaad van ongeveer 3.1 tot 10.6 GHz. Verder is ook zichtbaar dat de FCC een limiet heeft gesteld aan het vermogen dat UWB zoal uit mag zenden. Merk op dat dit voor 802.11a (een 5 GHz Wi-Fi verbinding) veel groter is. Doordat UWB zo'n groot frequentiespectrum kunnen veel gegevens worden verzonden, maar een verminderd zendvermogen van dit medium kan het echter maar enkele meters reiken.
 
-<p align="center">
+<div align="center">
   <img src="doc/img/UWB_SPECTRUM.png" height="250" width="500"/>
   <p>Figuur 1: Overzicht spectra verschillende wireless protocollen</p>
-</p>
+</div>
 
 Het is zichtbaar dat het bereik van UWB dicht bij het 'noise level' ligt. Soms vraagt men zich hierbij af of het 'noise level' niet kan storen met het vermogen dat UWB zoal gebruikt. Dit vormt geen probleem, aangezien UWB gebruik maakt van spread-spectrum technologie. Deze technologie is hierboven al uitgewerkt, en zorgt ervoor dat het signaal met opzet over een breed frequentiebereik wordt verstuurd. Op basis van de data dat binnen een signaal wordt verstuurd maakt het dus niet uit dat het vermogen van UWB dicht bij het 'noise level' ligt. 
 
