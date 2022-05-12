@@ -46,7 +46,7 @@ Mogelijke interferentie die kan worden veroorzaakt door het gebruik van een al b
 
 ### 3. Welke toepassingen gebruiken al Ultra-Wideband?
 
-
+Huidige toepassingen van UWB zijn al te vinden in verschillende (draagbare) persoonlijke elektronika zoals telefoons, smart horloges of bij het opsporen van spullen. 
 
 ### 4. Hoe kan Ultra-Wideband betreft techniek zich in de toekomst ontwikkelen?
 
