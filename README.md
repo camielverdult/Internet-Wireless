@@ -31,11 +31,16 @@ In de onderstaande afbeelding wordt deze theorie mooi gevisualiseerd. Je kunt zi
 
 <p align="center">
   <img src="doc/img/UWB_SPECTRUM.png" height="250" width="500"/>
+  <p>Figuur 1: Overzicht spectra verschillende wireless protocollen</p>
 </p>
 
-### 2. Waarom heet het eigenlijk Ultra-Wideband? Welke verschillen heeft het? 
+### 2. Waarom heet het eigenlijk Ultra-Wideband? Welke verschillen heeft het?
+
+In figuur 1 is het bereik en domein van de verschillende protocollen goed te vergelijken. Hieruit blijkt ook dat de bekendere protocollen die worden weergeven in dit figuur een (stuk) band gebruiken voor de communicatie. Bij het bekijken van het UWB spectrum wordt het al snel duidelijk dat er een paar verschillen zijn tussen "standaard" protocollen zoals GPS, Wi-Fi of Bluetooth en UWB. Uit het figuur is het voornaamste verschil duidelijk het verschil in breedte van de frequentie band. Bij GPS of Wi-Fi wordt er een vrij smal bereik gebruikt voor het versturen van data, terwijl bij UWB dit bereik een stuk groter is. Het verschil in bereik is zo groot dat het UWB spectrum de veelgebruikte Wi-Fi standaarden (802.11a/n/ac/ax) overlapt.
 
 ### 3. Welke toepassingen gebruiken al Ultra-Wideband?
+
+
 
 ### 4. Hoe kan Ultra-Wideband betreft techniek zich in de toekomst ontwikkelen?
 
@@ -67,5 +72,7 @@ Hieronder is een opsomming gegeven van de referenties gebruikt in dit vooronderz
 * ScienceDirect. (2021, 23 februari). Ultra-Wideband. Geraadpleegd op 3 mei 2022, van https://www.sciencedirect.com/topics/engineering/ultra-wideband
 * UWB Alliance. (2020, 26 januari). UWB Allicance. Geraadpleegd op 3 mei 2022, van https://uwballiance.org
 * IEEE SA. (2020, 15 mei). IEEE SA - IEEE 802.15.4z-2020. IEEE. Geraadpleegd op 3 mei 2022, van https://standards.ieee.org/ieee/802.15.4z/10230/
+* Qorvo US Inc. (2020, Mei). Getting Back to Basics with
+Ultra-Wideband (UWB). Geraadpleegd op 12 Mei 2022, van https://www.qorvo.com/-/media/files/qorvopublic/white-papers/qorvo-getting-back-to-basics-with-ultra-wideband-uwb-white-paper.pdf
 
 > Voor referenties, gebruik een APA-vermelding. Dit is eenvoudig te genereren via de volgende [link](https://www.scribbr.nl/bronnengenerator/apa/).
