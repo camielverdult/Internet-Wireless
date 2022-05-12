@@ -40,8 +40,6 @@ Het is zichtbaar dat het bereik van UWB dicht bij het 'noise level' ligt. Soms v
 
 In figuur 1 is het bereik en domein van de verschillende protocollen goed te vergelijken. Hieruit blijkt ook dat de bekendere protocollen die worden weergeven in dit figuur een (stuk) band gebruiken voor de communicatie. Bij het bekijken van het UWB spectrum wordt het al snel duidelijk dat er een paar verschillen zijn tussen "standaard" protocollen zoals GPS, Wi-Fi of Bluetooth en UWB. Uit het figuur is het voornaamste verschil duidelijk het verschil in breedte van de frequentie band. Bij GPS of Wi-Fi wordt er een vrij smal bereik gebruikt voor het versturen van data, terwijl bij UWB dit bereik een stuk groter is. Het verschil in bereik is zo groot dat het UWB spectrum de veelgebruikte Wi-Fi standaarden (802.11a/n/ac/ax) overlapt.
 
-### 2. Waarom heet het eigenlijk Ultra-Wideband? Welke verschillen heeft het? 
-
 ### 3. Welke toepassingen gebruiken al Ultra-Wideband?
 
 
