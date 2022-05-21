@@ -63,6 +63,14 @@ UWB heeft steeds meer toepassingen. Dit komt er onder andere mede door dat Apple
 
 ## Hoofdvraag: Wat is de toepassing van Ultra-Wideband in toekomstige technologieën?
 
+Brainstorm:
+* Zeggen verdere uitbreiding veilig betalen.
+* Vergelijking met Wi-Fi 7.
+* COVID detectie.
+* Optimalisatie bedrijfsprocessen.
+* Auto's autonoom rijden.
+* Landbouw.
+
 ### Afkortingen
 
 Hieronder is een opsomming gegeven van enkele gebruikte afkortingen in dit vooronderzoek:
