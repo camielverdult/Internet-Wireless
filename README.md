@@ -48,7 +48,7 @@ Mogelijke interferentie die kan worden veroorzaakt door het gebruik van een al b
 
 Vanwege het lage stroom verbruik door het lagere zendvermogen is UWB erg handig voor real-time locatie systemen zonder interferentie te veroorzaken. Huidige toepassingen van UWB zijn al te vinden in verschillende (draagbare) persoonlijke elektronika zoals telefoons, smart horloges of bij het opsporen van spullen. Apple maakt bijvoorbeeld gebruik van UWB technologie in hun U1 (**U**ltra-Wideband 1) chip. Deze chip communiceert met de Apple AirTag, een kleine tracker de grote van een chocolade munt, en andere communicatie tussen andere apparaten van Apple, zoals de HomePod. 
 
-Ook andere bedrijven zoals Microchip, implementeren UWB voor het gebruik van real-time tracking, radar en data overbracht. Er was ook een voorstel voor het gebruik van UWB in personal are netwerken, dit voorstel is niet doorgekomen.
+Ook andere bedrijven zoals Microchip, implementeren UWB voor het gebruik van real-time tracking, radar en data overbracht. Er was ook een voorstel voor het gebruik van UWB in personal area netwerken, dit voorstel is niet aangenomen. UWB is gebruikt voor "see-through-the-wall" systemen om mensen te kunnen detecteren door muren heen.
 
 ### 4. Hoe kan Ultra-Wideband betreft techniek zich in de toekomst ontwikkelen?
 
