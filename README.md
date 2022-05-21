@@ -40,13 +40,15 @@ Het is zichtbaar dat het bereik van UWB dicht bij het 'noise level' ligt. Soms v
 
 In figuur 1 is het bereik en domein van de verschillende protocollen goed te vergelijken. Hieruit blijkt ook dat de bekendere protocollen die worden weergeven in dit figuur een (stuk) band gebruiken voor de communicatie. Bij het bekijken van het UWB spectrum wordt het al snel duidelijk dat er een paar verschillen zijn tussen "standaard" protocollen zoals GPS, Wi-Fi of Bluetooth en UWB. Uit het figuur is het voornaamste verschil duidelijk het verschil in breedte van de frequentie band. Bij GPS of Wi-Fi wordt er een vrij smal bereik gebruikt voor het versturen van data, terwijl bij UWB dit bereik een stuk groter is. 
 
-Het verschil in bereik is zo groot dat de oudere UWB standaard een spectrum heeft die de veelgebruikte Wi-Fi standaarden (802.11a/n/ac/ax) overlapt. Tegenwoordig kan UWB zelfs gebruik maken van sub 1 GHz frequenties. De huidige UWB standaard zou dus zelfs de frequentie van GPS (1.176 tot 1.57542 GHz) kunnen overlappen.
+Het verschil in bereik is zo groot dat de oudere UWB standaard een spectrum heeft die de veelgebruikte Wi-Fi standaarden (802.11a/n/g/ac/ax) overlapt. Tegenwoordig kan UWB zelfs gebruik maken van sub 1 GHz frequenties. De huidige UWB standaard zou dus zelfs de frequentie van GPS (1.176 tot 1.57542 GHz) kunnen overlappen. Men zou kunnen verwachten dat deze overlapping van UWB op zoveel andere bandbreedtes, gebruikt door andere connectiviteit protocollen, interferentie zou veroorzaken. Verder zou er ook kunnen worden verwacht dat het gebruik van UWB in combinatie met andere connectiviteit, er voor zou zorgen dat er slechte data overdracht mogelijk is door interferentie. 
 
-Mogelijke interferentie die kan worden veroorzaakt door het gebruik van een al bepaalde frequentie bereik klinkt alarmerend. Dit is in de realiteit niet zo, omdat het power spectrum van UWB dus een stuk lager ligt dan de protocollen die een beperkter of smaller bereik hebben dan UWB. Zo is interferentie eigenlijk geen probleem, vanwege de beperkte signaalsterkte van UWB op overlappende frequentie banden.
+Mogelijke interferentie die kan worden veroorzaakt door het gebruik van een al bepaalde frequentie bereik (zoals bij GPS) klinkt alarmerend. Dit is in de realiteit niet zo, omdat het power spectrum van UWB dus een stuk lager ligt dan de protocollen die een beperkter of smaller bereik hebben dan UWB. Zo is interferentie eigenlijk geen probleem, vanwege het lage vermogen van UWB op overlappende frequentie banden.
 
 ### 3. Welke toepassingen gebruiken al Ultra-Wideband?
 
-Huidige toepassingen van UWB zijn al te vinden in verschillende (draagbare) persoonlijke elektronika zoals telefoons, smart horloges of bij het opsporen van spullen. 
+Vanwege het lage stroom verbruik door het lagere zendvermogen is UWB erg handig voor real-time locatie systemen zonder interferentie te veroorzaken. Huidige toepassingen van UWB zijn al te vinden in verschillende (draagbare) persoonlijke elektronika zoals telefoons, smart horloges of bij het opsporen van spullen. Apple maakt bijvoorbeeld gebruik van UWB technologie in hun U1 (**U**ltra-Wideband 1) chip. Deze chip communiceert met de Apple AirTag, een kleine tracker de grote van een chocolade munt, en andere communicatie tussen andere apparaten van Apple, zoals de HomePod. 
+
+Ook andere bedrijven zoals Microchip, implementeren UWB voor het gebruik van real-time tracking, radar en data overbracht. Er was ook een voorstel voor het gebruik van UWB in personal are netwerken, dit voorstel is niet doorgekomen.
 
 ### 4. Hoe kan Ultra-Wideband betreft techniek zich in de toekomst ontwikkelen?
 
@@ -81,8 +83,9 @@ Hieronder is een opsomming gegeven van de referenties gebruikt in dit vooronderz
 * Qorvo US Inc. (2020, Mei). Getting Back to Basics with
 Ultra-Wideband (UWB). Geraadpleegd op 12 Mei 2022, van https://www.qorvo.com/-/media/files/qorvopublic/white-papers/qorvo-getting-back-to-basics-with-ultra-wideband-uwb-white-paper.pdf
 * IEEE SA. (2022, 4 januari). Tracking Resurgence of Ultra-Wideband - A Standards and Certification Perspective. IEEE Conference Publication | IEEE Xplore. Geraadpleegd op 12 mei 2022, van https://ieeexplore.ieee.org/document/9668524?arnumber=9668524
-* IEEE SA. (2021, 9 oktober). Ultra-Wideband Flexible and Wearable Textile Antenna for Predicting Breast Cancer. IEEE Conference Publication | IEEE Xplore. Geraadpleegd op 12 mei 2022, van https://ieeexplore.ieee.org/document/9588797?arnumber=9588797
+* IEEE SA. (2021, 9 oktober). "Ultra-Wideband Flexible and Wearable Textile Antenna for Predicting Breast Cancer." IEEE Conference Publication | IEEE Xplore. Geraadpleegd op 12 mei 2022, van https://ieeexplore.ieee.org/document/9588797?arnumber=9588797
     > Bron voor verder onderzoek naar toepassing van UWB in de toekomst. 
+* E. M. Shaheen and M. El-Tanany (2010), "The impact of narrowband interference on the performance of UWB systems in the IEEE802.15.3a channel models." Geraadpleegd op 21 Mei 2022, van https://ieeexplore.ieee.org/document/5575235/
 
 ***Opmerking:*** voor het zoeken naar referenties is er gebruik gemaakt van de wetenschappelijke artikelen dat de Saxion bibliotheek hiervoor heeft.
 Om hier meer gegevens over te verkrijgen, raadpleeg Blackboard, en dan de library pagina.
