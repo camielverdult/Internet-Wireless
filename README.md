@@ -61,7 +61,11 @@ UWB heeft steeds meer toepassingen. Dit komt er onder andere mede door dat Apple
 
 ### 5. Wat is het verschil tussen Ultra-Wideband en bijvoorbeeld 4G en 5G betreft zend theorie.
 
+
+
 ## Hoofdvraag: Wat is de toepassing van Ultra-Wideband in toekomstige technologieën?
+
+Huidige toepassingen van UWB zijn al te vinden in tracking apparaten van Apple vanwege de hoge precisie en laag energieverbruik over korte afstand. 
 
 Brainstorm:
 * Zeggen verdere uitbreiding veilig betalen.
