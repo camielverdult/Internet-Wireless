@@ -109,26 +109,21 @@ Hello Bob and Camiel,
 
 Here is the feedback regarding your presentation on: Ultra-Wideband: "what is the application in future technologies?"
 
-
-content of presentation: 
+#### content of presentation:
 
 Clear explanation, a lot of information conveyed in a clear and well-arranged way. However, there could be made a more/better distinction in which information can be told and which cannot. Due to the large amount of information it remains difficult to follow the presentation. For example, think of all ISO standards, comparisons and so on. This can weaken the actual information you wish to convey by making it difficult to follow through after all this information. The subject has therefore been discussed quite broadly in relation to the research question. 
 
-use of slides: 
+#### use of slides: 
 
 Good use has been made of graphs in the slides (frequency spectrum), and the slides are very readable given the contrast white text on a dark background.  
 
 The overview slides are a nice addition to the previous slides with a lot of text and give a nice ‘summary’ of the extensive information previous provided (for example, slide number 12). The many text, numbers and abbreviations sometimes make it a bit difficult to get a quick overview of what may be said in terms of information during that slide. 
 
-presentation skill: 
+#### presentation skill: 
 
 Clear voice. Much of the information presented was already in full sentences on the slides. Which gives you a choice whether to listen or read the slides. 
 
-
-
 The overall subjective opinion: good.  
-
-
 
 DOEI!!!
 
