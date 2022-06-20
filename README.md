@@ -71,7 +71,7 @@ Brainstorm:
 * Auto's autonoom rijden.
 * Landbouw.
 
-### Afkortingen
+# Afkortingen
 
 Hieronder is een opsomming gegeven van enkele gebruikte afkortingen in dit vooronderzoek:
 
@@ -80,7 +80,7 @@ Hieronder is een opsomming gegeven van enkele gebruikte afkortingen in dit vooro
 * FHSS, Frequency Hopping Spread Spectrum.
 * DSSS, Direct Sequence Spread Spectrum.
 
-### Referenties
+## Referenties
 
 Hieronder is een opsomming gegeven van de referenties gebruikt in dit vooronderzoek.
 
@@ -101,9 +101,9 @@ Om hier meer gegevens over te verkrijgen, raadpleeg Blackboard, en dan de librar
 ***Overige informatie:***
 > Voor referenties, gebruik een APA-vermelding. Dit is eenvoudig te genereren via de volgende [link](https://www.scribbr.nl/bronnengenerator/apa/).
 
-### Feedback van andere groepen
+## Feedback van andere groepen
 
-#### From Julia Aalbers:
+### From Julia Aalbers:
 
 Hello Bob and Camiel,
 
@@ -133,9 +133,9 @@ The overall subjective opinion: good.
 DOEI!!!
 
 
-#### Wybren van den Akker
+### Wybren van den Akker
 
-Content Of Presentation
+#### Content Of Presentation
 Is the topic covered deep or broad enough, is there a good line between research question(s) and conclusions/recommendations?
 
 Overall we thought the presentation’s content was pretty good. The fact you immediately stated your research question at the start of the presentation was very nice because it allowed for us to put the information you were giving into context.
@@ -144,7 +144,7 @@ We also liked that you mentioned the current state of the technology not just in
 
 Lastly, we felt that the conclusions were well in line with the research question, although mostly personal and not backed up by sources from the industry, etc. Perhaps (if applicable) you could have mentioned that some car manufacturers have started researching UWB as a replacement for NFC in keyless access. The fact that you had different conclusions for each presenter was nice and gave the presentation a nice personal touch.
 
-Use Of Slides
+#### Use Of Slides
 Balance between text and pictures, structure and layout, page numbers
 We felt that the slides were predominantly text based and few of them had pictures. It would be better to use less text and more pictures, or if no pictures are available at least use less text. It sometimes distracted from your presenting when lots of text needed to be read. The choice of color was very nice though since the white letters on black background made it easy to read.
 
@@ -152,12 +152,12 @@ We really liked the layout of your (overview) slide 12. It was easy to read and 
 
 Perhaps you could have ordered the ending of the presentation a little bit differently as it seemed that you jumped back and forth between some pretty similar topics, which felt a bit repetitive. 
 
-Presentation Skill
+#### Presentation Skill
 Clear and calm voice, good explanation, does it “add” to the topic/slides?
 First of all, both of you seemed like you knew what you were talking about. The information was clearly presented and explained. However you sometimes mumbled a little bit or were checking information on the slides, which resulted in you speaking in the direction of the screen instead of the room. The size of the room then made it a little hard to hear you in these cases.
 I really liked that you had a little practical showcase of the apple airtag. It was a nice break from the usual presentation format.
 You alternated well between the two speakers. You both seemed to have an equal section of the presentation and neither speaker was quiet for too long.
 
-Subjective Opinion (Grade)
+#### Subjective Opinion (Grade)
 
 Aside from some issues with the slides being predominantly text based and what we personally felt as some lacking depth in how data is communicated over UWB, everything was perfect. We give this a good rating.
