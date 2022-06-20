@@ -100,3 +100,64 @@ Om hier meer gegevens over te verkrijgen, raadpleeg Blackboard, en dan de librar
 
 ***Overige informatie:***
 > Voor referenties, gebruik een APA-vermelding. Dit is eenvoudig te genereren via de volgende [link](https://www.scribbr.nl/bronnengenerator/apa/).
+
+### Feedback van andere groepen
+
+#### From Julia Aalbers:
+
+Hello Bob and Camiel,
+
+Here is the feedback regarding your presentation on: Ultra-Wideband: "what is the application in future technologies?"
+
+
+content of presentation: 
+
+Clear explanation, a lot of information conveyed in a clear and well-arranged way. However, there could be made a more/better distinction in which information can be told and which cannot. Due to the large amount of information it remains difficult to follow the presentation. For example, think of all ISO standards, comparisons and so on. This can weaken the actual information you wish to convey by making it difficult to follow through after all this information. The subject has therefore been discussed quite broadly in relation to the research question. 
+
+use of slides: 
+
+Good use has been made of graphs in the slides (frequency spectrum), and the slides are very readable given the contrast white text on a dark background.  
+
+The overview slides are a nice addition to the previous slides with a lot of text and give a nice ‘summary’ of the extensive information previous provided (for example, slide number 12). The many text, numbers and abbreviations sometimes make it a bit difficult to get a quick overview of what may be said in terms of information during that slide. 
+
+presentation skill: 
+
+Clear voice. Much of the information presented was already in full sentences on the slides. Which gives you a choice whether to listen or read the slides. 
+
+
+
+The overall subjective opinion: good.  
+
+
+
+DOEI!!!
+
+
+#### Wybren van den Akker
+
+Content Of Presentation
+Is the topic covered deep or broad enough, is there a good line between research question(s) and conclusions/recommendations?
+
+Overall we thought the presentation’s content was pretty good. The fact you immediately stated your research question at the start of the presentation was very nice because it allowed for us to put the information you were giving into context.
+We found that you went very in depth on the technical specifications on UWB, and especially the slides with pictures comparing it to other products such as WiFI were very interesting. However we felt that you skipped over the usage of UWB a bit, such as how data is actually transmitted. You talked about how its used to determine distance, but in the case of replacing NFC for payments, etc. not much was said about how the devices would identify themselves.
+We also liked that you mentioned the current state of the technology not just in who uses it but also what the community surrounding it is working on right now. 
+
+Lastly, we felt that the conclusions were well in line with the research question, although mostly personal and not backed up by sources from the industry, etc. Perhaps (if applicable) you could have mentioned that some car manufacturers have started researching UWB as a replacement for NFC in keyless access. The fact that you had different conclusions for each presenter was nice and gave the presentation a nice personal touch.
+
+Use Of Slides
+Balance between text and pictures, structure and layout, page numbers
+We felt that the slides were predominantly text based and few of them had pictures. It would be better to use less text and more pictures, or if no pictures are available at least use less text. It sometimes distracted from your presenting when lots of text needed to be read. The choice of color was very nice though since the white letters on black background made it easy to read.
+
+We really liked the layout of your (overview) slide 12. It was easy to read and clearly communicated what you were talking about. It would have been nice if this format was applied to more of the presentation.
+
+Perhaps you could have ordered the ending of the presentation a little bit differently as it seemed that you jumped back and forth between some pretty similar topics, which felt a bit repetitive. 
+
+Presentation Skill
+Clear and calm voice, good explanation, does it “add” to the topic/slides?
+First of all, both of you seemed like you knew what you were talking about. The information was clearly presented and explained. However you sometimes mumbled a little bit or were checking information on the slides, which resulted in you speaking in the direction of the screen instead of the room. The size of the room then made it a little hard to hear you in these cases.
+I really liked that you had a little practical showcase of the apple airtag. It was a nice break from the usual presentation format.
+You alternated well between the two speakers. You both seemed to have an equal section of the presentation and neither speaker was quiet for too long.
+
+Subjective Opinion (Grade)
+
+Aside from some issues with the slides being predominantly text based and what we personally felt as some lacking depth in how data is communicated over UWB, everything was perfect. We give this a good rating.
