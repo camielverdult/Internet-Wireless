@@ -65,7 +65,7 @@ UWB heeft steeds meer toepassingen. Dit komt er onder andere mede door dat Apple
 
 ## Hoofdvraag: Wat is de toepassing van Ultra-Wideband in toekomstige technologieën?
 
-Huidige toepassingen van UWB zijn al te vinden in tracking apparaten van Apple vanwege de hoge precisie en laag energieverbruik over korte afstand. 
+Huidige toepassingen van UWB zijn al te vinden in tracking apparaten van Apple vanwege de hoge precisie en laag energieverbruik over korte afstand. In de toekomst kan UWB nog verder worden gemplementeerd
 
 Brainstorm:
 * Zeggen verdere uitbreiding veilig betalen.
