@@ -59,10 +59,6 @@ UWB heeft steeds meer toepassingen. Dit komt er onder andere mede door dat Apple
 - Er worden zeer recentelijk stappen gezet in de ontwikkeling van UWB Secure Payment, om de volgende stap van beveiligd betalen te zetten. De opname van Scrambled Timestamp Sequence (STS) in IEEE 802.15.4Z helpt ervoor te zorgen dat kritieke informatie, zoals de validatieafstand tot de betaalterminal veilig wordt bewaard en niet kan worden onderschept of gemanipuleerd. Contactloos betalen kan met UWB dus veiliger worden gemaakt.
 - Auto's, contactloos de auto binnentreden. Veelal nieuwe auto's worden voorzien van een technologie waar men de auto kan betreden, zonder hier bijvoorbeeld fysiek de sleutel voor te hoeven gebruiken. Echter, doordat je hier niet de sleutel fysiek voor hoeft te gebruiken bestaat er een kans voor dieven de auto gemakkelijker te kunnen stelen. Maar als autosleutels voorzien worden van UWB kan dit worden gebruikt om te kijken of de drager van de sleutel daadwerkelijk in de buurt is van de auto om deze te openen, en zich in de auto bevindt om deze te starten. Met behulp van IEEE 802.15.4Z met Scrambled Timestamp Sequence (STS) zal het zelfs mogelijk worden om communicatie tussen een sleutel en auto volledig te beveiligen, zonder dat hacken mogelijk is. 
 
-### 5. Wat is het verschil tussen Ultra-Wideband en bijvoorbeeld 4G en 5G betreft zend theorie.
-
-
-
 ## Hoofdvraag: Wat is de toepassing van Ultra-Wideband in toekomstige technologieën?
 
 Huidige toepassingen van UWB zijn al te vinden in tracking apparaten van Apple vanwege de hoge precisie en laag energieverbruik over korte afstand. In de toekomst kan UWB nog verder worden gemplementeerd
